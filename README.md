@@ -1,2 +1,2 @@
-# organicals
-organic products website
+# Amazon
+This is a clone of amazon
